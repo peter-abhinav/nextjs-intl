@@ -1,0 +1,7 @@
+{
+  "Home": {
+    "title": "Hallo, dies ist die Internationalisierung mit Next.",
+    "description": "Hier verwenden wir das Paket next-intl, um diesen Text in verschiedene Sprachen zu übersetzen.",
+    "button": "Sprache ändern"
+  }
+}
